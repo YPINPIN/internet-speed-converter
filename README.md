@@ -13,3 +13,9 @@
 - React 元件間的資料傳遞 (`props`)及修改。
 
 - 使用 React FontAwesome。
+
+## 專案 Demo
+
+[💻Demo](https://ypinpin.github.io/internet-speed-converter/)
+
+![demo.gif](./demo.gif)
