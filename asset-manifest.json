@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/internet-speed-converter/static/css/main.4e956a5c.css",
+    "main.js": "/internet-speed-converter/static/js/main.585014c1.js",
+    "index.html": "/internet-speed-converter/index.html",
+    "main.4e956a5c.css.map": "/internet-speed-converter/static/css/main.4e956a5c.css.map",
+    "main.585014c1.js.map": "/internet-speed-converter/static/js/main.585014c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e956a5c.css",
+    "static/js/main.585014c1.js"
+  ]
+}
